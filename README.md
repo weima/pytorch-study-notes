@@ -1,2 +1,4 @@
 # pytorch-study-notes
-Pytorch study notes
+
+This repository contains notes while learning PyTorch
+
