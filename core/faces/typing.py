@@ -6,3 +6,5 @@ import numpy as np
 class Sample:
     image: np.ndarray
     landmarks: np.ndarray
+
+
