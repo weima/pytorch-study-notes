@@ -4,6 +4,7 @@ from collections import Callable
 from typing import Tuple, Union
 
 from skimage import transform
+from torch.utils.data import DataLoader
 
 from core.faces.typing import Sample
 import torch
